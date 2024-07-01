@@ -1,0 +1,94 @@
+{
+  "events": [
+    {
+      "id": "101",
+      "title": "Anoush",
+      "date": "July 2",
+      "time": "19:00",
+      "type": "opera",
+      "composer": "A. Tigranian",
+      "cover": "https://ticket.opera.am/uploads/images/5d34a043044cc714745c06a201800386.jpg"
+    },
+    {
+      "id": "102",
+      "title": "Swan Lake",
+      "date": "July 4",
+      "time": "19:00",
+      "type": "ballet",
+      "composer": "P. Tchaykovsky",
+      "cover": "https://ticket.opera.am/uploads/images/Swan-Lake-Afisha-1494x1920px-min.jpg"
+    },
+    {
+      "id": "103",
+      "title": "Masquerade",
+      "date": "July 6",
+      "time": "19:00",
+      "type": "ballet",
+      "composer": "A. Khachaturian",
+      "cover": "https://ticket.opera.am/uploads/images/f0149c96e52c9bacf0dc54a7c3077cc6.jpg"
+    },
+    {
+      "id": "104",
+      "title": "Romeo and Juliet",
+      "date": "July 8",
+      "time": "19:00",
+      "type": "ballet",
+      "composer": "S. Prokofiev",
+      "cover": "https://ticket.opera.am/uploads/images/247dca099bf27247210473fa2ae41ab7.jpg"
+    },
+    {
+      "id": "105",
+      "title": "Traviata",
+      "date": "July 9",
+      "time": "19:00",
+      "type": "opera",
+      "composer": "G. Verdi",
+      "cover": "https://ticket.opera.am/uploads/images/3f96f76756b39ad97bcf173b0095f782.jpg"
+    },
+    {
+      "id": "8e76",
+      "title": "Spartacus",
+      "date": "12/23/24",
+      "time": "19:00",
+      "composer": "A. Khachatryan",
+      "type": "ballet",
+      "cover": "https://i0.wp.com/images.movieplayer.it/images/2016/02/23/spartacus_loc.jpg"
+    },
+    {
+      "id": "b7aa",
+      "title": "Gayane",
+      "date": "07/11/2024",
+      "time": "19:00",
+      "composer": "A.Khachatryan",
+      "type": "ballet",
+      "cover": "https://ticket.opera.am/uploads/images/b4508d0769ffe5a1d1315a5f469c46a2.jpg"
+    },
+    {
+      "id": "7868",
+      "title": "Turandot",
+      "date": "26/07/2024",
+      "time": "19:00",
+      "composer": "G Puccini",
+      "type": "opera",
+      "cover": "https://ticket.opera.am/uploads/images/c36f2cdd9e1ca23db967a0f34d0f7087.jpg"
+    },
+    {
+      "id": "81a2",
+      "title": "Carmen",
+      "date": "13/07/2024",
+      "time": "18:00",
+      "composer": "Georges Bizet",
+      "type": "opera",
+      "cover": "https://ticket.opera.am/uploads/images/aaabc5ff6330aadaf03c8259100a6e57.jpg"
+    },
+    {
+      "id": "f591",
+      "title": "Bohem",
+      "date": "17/07/2024",
+      "time": "19:00",
+      "composer": "G. Puccini",
+      "type": "opera",
+      "cover": "https://ticket.opera.am/uploads/images/IMG_7427.png"
+    }
+  ]
+}
