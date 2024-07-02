@@ -5,7 +5,7 @@ export interface IEvent {
   title: string;
   date: string;
   time: string;
-  type: events;
+  type: string;
   composer: string;
   cover: string;
 }

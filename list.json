@@ -89,6 +89,24 @@
       "composer": "G. Puccini",
       "type": "opera",
       "cover": "https://ticket.opera.am/uploads/images/IMG_7427.png"
+    },
+    {
+      "id": "102",
+      "title": "Copied",
+      "date": "July 4",
+      "time": "19:00",
+      "type": "ballet",
+      "composer": "P. Tchaykovsky",
+      "cover": "https://ticket.opera.am/uploads/images/Swan-Lake-Afisha-1494x1920px-min.jpg"
+    },
+    {
+      "id": "b7aa",
+      "title": "Copied",
+      "date": "07/11/2024",
+      "time": "19:00",
+      "composer": "A.Khachatryan",
+      "type": "ballet",
+      "cover": "https://ticket.opera.am/uploads/images/b4508d0769ffe5a1d1315a5f469c46a2.jpg"
     }
   ]
 }
